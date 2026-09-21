@@ -1,0 +1,9 @@
+[submodule "kernel_bench/Sparse-Marlin"]
+	path = kernel_bench/Sparse-Marlin
+	url = https://github.com/IST-DASLab/Sparse-Marlin.git
+[submodule "kernel_bench/MACKO"]
+	path = kernel_bench/MACKO
+	url = https://github.com/vlejd/macko_spmv.git
+[submodule "kernel_bench/exllamav2"]
+	path = kernel_bench/exllamav2
+	url = https://github.com/turboderp-org/exllamav2.git
